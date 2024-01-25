@@ -1,4 +1,4 @@
-#NBA Stat Tracker
+# NBA Stat Tracker
 
 This is an application I wrote to gain more experience with Python and Databases as part of class.
 
